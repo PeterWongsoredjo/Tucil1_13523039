@@ -37,6 +37,7 @@ Pastikan proyek memiliki struktur berikut:
 │── testcase.txt    # File input (bisa disesuaikan)
 │── README.md       
 ```
+Input file berada di luar folder yang ada, sejajar dengan README.md
 ### 🔹 2. Kompilasi Semua File Java
 Buka terminal atau command prompt, lalu jalankan:
 
